@@ -1,0 +1,19 @@
+﻿;DO NOT DELETE THIS LINE*** version=1 ***
+ak:(Arknights)
+al:(Azur Lane)
+ba:(Blue Archive)
+cn:Công nhân
+gfl:(Girls' Frontline)
+gi:(Genshin Impact)
+hcm:TP. HCM
+hi:(Honkai Impact 3rd)
+holo:[VTuber - Hololive]
+lhp:Lưu Hữu Phước
+mc:Mễ Cốc
+miku:Hatsune Miku [Vocaloid]
+mud:Mudrock (Arknights) 
+nv:Nhân viên
+oo:Original artwork
+os:Original artwork - Scenery
+sur:Surtr (Arknights) 
+uma:(Uma Musume Pretty Derby)
